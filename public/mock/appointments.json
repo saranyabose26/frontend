@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "101",
+    "serviceName": "Oil Change",
+    "date": "2024-09-01",
+    "time": "10:00 AM",
+    "notes": "Please use synthetic oil."
+  },
+  {
+    "_id": "102",
+    "serviceName": "Tire Rotation",
+    "date": "2024-09-15",
+    "time": "02:00 PM",
+    "notes": "Check tire pressure."
+  }
+]

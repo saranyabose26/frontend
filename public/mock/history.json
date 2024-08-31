@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "201",
+    "serviceName": "Brake Inspection",
+    "date": "2024-07-10",
+    "notes": "Pads were in good condition.",
+    "cost": 40
+  },
+  {
+    "_id": "202",
+    "serviceName": "Oil Change",
+    "date": "2024-06-20",
+    "notes": "Replaced with synthetic oil.",
+    "cost": 60
+  }
+]
