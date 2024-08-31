@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "301",
+    "description": "Oil Change",
+    "amount": 60,
+    "date": "2024-06-20"
+  },
+  {
+    "_id": "302",
+    "description": "Tire Rotation",
+    "amount": 30,
+    "date": "2024-09-15"
+  },
+  {
+    "_id": "303",
+    "description": "Brake Inspection",
+    "amount": 40,
+    "date": "2024-07-10"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "1",
+    "serviceId":"oil_change",
+    "name": "Oil Change",
+    "description": "Complete engine oil change with premium oil.",
+    "category": "maintenance",
+    "price": 50
+  },
+  {
+    "_id": "2",
+     "serviceId":"tire_rotation",
+    "name": "Tire Rotation",
+    "description": "Rotation of all tires to ensure even wear.",
+    "category": "maintenance",
+    "price": 30
+  },
+  {
+    "_id": "3",
+     "serviceId":"break",
+    "name": "Brake Inspection",
+    "description": "Thorough inspection of brake pads and rotors.",
+    "category": "inspection",
+    "price": 40
+  }
+]
